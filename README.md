@@ -14,7 +14,7 @@
 
 
 
-### Glad to see you here!  
+### Encantado de verte aquí!  
 Soy un desarrollador full-stack y analista de datos. Ser full-stack me permite no solo desarrollar aplicaciones y sitios web orientados al cliente, sino también desarrollarlos con soporte backend de vanguardia.
 
 Por otro lado, ser analista me permite tomar mejores decisiones en base a los problemas que me presenten, siempre buscando sacar el máximo rendimiento .   
