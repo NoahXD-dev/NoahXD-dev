@@ -35,7 +35,7 @@ Por otro lado, ser analista me permite tomar mejores decisiones en base a los pr
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
 </div>  
 
 
@@ -70,26 +70,6 @@ Por otro lado, ser analista me permite tomar mejores decisiones en base a los pr
 </div>  
 
 <br/>  
-
-
-## Estadísticas de Github  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NoahXD-dev&show_icons=true&count_private=false&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahXD-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/> 
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
